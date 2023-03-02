@@ -81,6 +81,7 @@ p{
 /* Features Section*/
 #features {
   position: relative;
+  z-index:1;
 }
 
 .feature-title {
@@ -108,6 +109,8 @@ p{
 /* Testimonials Section */
 #testimonials {
   background-color: #ef8172;
+  position: absolute;
+  z-index:1;
 }
 
 .testimonial-text {
