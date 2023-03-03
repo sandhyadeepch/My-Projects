@@ -9,7 +9,7 @@ Few exciting projects
 
 <a href="https://sandhyadeepch.github.io/My-Projects/SimonGame/" target="_blank">Simon Game </a>
 
-<a href="https://sandhyadeepch.github.io/My-Projects/MySite/earlier" target="_blank">My site Ver 1 </a>
+<a href="https://sandhyadeepch.github.io/My-Projects/MySite/earlier.html" target="_blank">My site Ver 1 </a>
 
 <a href="https://sandhyadeepch.github.io/My-Projects/MySite/" target="_blank">My site Ver 2 </a>
 
