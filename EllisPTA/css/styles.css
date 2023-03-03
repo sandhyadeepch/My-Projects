@@ -1,0 +1,33 @@
+body{
+  font-family: Roboto,sans-serif;
+  text-align: center;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  color:#d62433;
+}
+
+.list{
+  margin-left: 20%;
+  margin-right: auto;
+  text-align: justify;
+}
+p{
+  font-family:fantasy;
+  font-size: 18px;
+}
+.thumbnails{
+  height:90px;
+  width:90px;
+}
+
+
+ul{
+  font-size: 15px;
+}
+

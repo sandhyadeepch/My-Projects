@@ -1,0 +1,42 @@
+
+body{
+  background-color: #393E46;
+}
+.paraStyles{
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+/* title and dice */
+
+.container{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+.titleHeading{
+  padding: 25px;
+  font-size: 8rem;
+  font-family: 'Lobster', cursive;
+  color: #4ECCA3;
+  text-shadow: 5px 0 #232931;
+}
+.dice{
+  display: inline-block;
+}
+
+
+
+
+/* Footer styles */
+.footer{
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+.dice-footer{
+  width:2%;
+  height:2%;
+
+}
